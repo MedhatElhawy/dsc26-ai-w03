@@ -1,0 +1,26 @@
+# DSC 2026 · DS&A track · pinned for every task and for the grader image (Python 3.12).
+# Generated with pip freeze; do not change versions. Install: uv pip install -r requirements.txt
+duckdb==1.5.5
+formulaic==1.2.2
+hypothesis==6.168.3
+iniconfig==2.3.1
+interface-meta==2.0.1
+narwhals==2.27.1
+numpy==2.3.5
+packaging==26.3
+pandas==2.3.3
+patsy==1.0.3
+pluggy==1.6.0
+pyarrow==25.0.1
+pygments==2.21.0
+pytest==9.1.1
+pytest-timeout==2.4.0
+python-dateutil==2.9.0.post0
+pytz==2026.5
+scipy==1.18.1
+six==1.17.0
+sortedcontainers==2.4.0
+statsmodels==0.15.0
+typing-extensions==4.16.0
+tzdata==2026.5
+wrapt==2.5.0
